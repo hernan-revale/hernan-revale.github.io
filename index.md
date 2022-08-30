@@ -10,9 +10,9 @@
 
 ---
 
-## [K-Nearest Neighbors and Wine Quality Prediction](/projects_html/K-nearest neighbors and wine quality prediction.html)
-##### Prediction of wine quality using KNN based on physicochemical characteristics
-[<img src="images/wine.jpg?raw=true"/>](/projects_html/K-nearest neighbors and wine quality prediction.html)
+## [Naïve Bayes Spam Filter](/projects_html/Naive Bayes Spam Filter.html)
+##### Prediction of Spam SMS with two Different Naïve Bayes Classifiers
+[<img src="images/spam.jpg?raw=true"/>](/projects_html/Naive Bayes Spam Filter.html)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
