@@ -2,9 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Data Science Projects 
 
-[Project 1 Title](/sample_page)
+[K-Nearest Neighbors and Wine Quality Prediction](projects_html/K-nearest neighbors and wine quality prediction.html)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+[K-Nearest Neighbors and Wine Quality Prediction](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
