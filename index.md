@@ -5,7 +5,7 @@
 ### Data Science Projects 
 
 [K-Nearest Neighbors and Wine Quality Prediction](/projects_html/K-nearest neighbors and wine quality prediction.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/wine.jpg?raw=true"/>
 
 ---
 
