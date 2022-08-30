@@ -5,11 +5,12 @@
 ### Data Science Projects 
 
 [K-Nearest Neighbors and Wine Quality Prediction](/projects_html/K-nearest neighbors and wine quality prediction.html)
-<img src="images/wine.jpg?raw=true"/>
+[<img src="images/wine.jpg?raw=true"/>](/projects_html/K-nearest neighbors and wine quality prediction.html)
 
 ---
 
-[K-Nearest Neighbors and Wine Quality Prediction](/projects_html/K-nearest neighbors and wine quality prediction.html)
+## [K-Nearest Neighbors and Wine Quality Prediction](/projects_html/K-nearest neighbors and wine quality prediction.html)
+Prediction of wine quality using KNN based on physicochemical characteristics
 [<img src="images/wine.jpg?raw=true"/>](/projects_html/K-nearest neighbors and wine quality prediction.html)
 
 ---
