@@ -9,8 +9,8 @@
 
 ---
 
-[K-Nearest Neighbors and Wine Quality Prediction](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[K-Nearest Neighbors and Wine Quality Prediction](/projects_html/K-nearest neighbors and wine quality prediction.html)
+[<img src="images/wine.jpg?raw=true"/>](/projects_html/K-nearest neighbors and wine quality prediction.html)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
