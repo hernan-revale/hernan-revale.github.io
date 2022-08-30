@@ -1,4 +1,4 @@
-## Portfolio
+# Portfolio
 
 ---
 
@@ -11,7 +11,7 @@
 ---
 
 ## [Naïve Bayes Spam Filter](/projects_html/Naive Bayes Spam Filter.html)
-##### Prediction of Spam SMS with two Different Naïve Bayes Classifiers
+##### Prediction of Spam SMS with two different Naïve Bayes classifiers
 [<img src="images/spam.jpg?raw=true"/>](/projects_html/Naive Bayes Spam Filter.html)
 
 ---
