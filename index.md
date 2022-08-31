@@ -15,6 +15,12 @@
 [<img src="images/spam.jpg?raw=true"/>](/projects_html/Naive Bayes Spam Filter.html)
 
 ---
+
+## [Decision Trees and Heart Disease Classification](/projects_html/Decision Trees and Heart Disease.html)
+##### Classification of heart disease patients using Decision Trees. Selection of best hyperparameters  
+[<img src="images/heart.jpg?raw=true"/>](/projects_html/Decision Trees and Heart Disease.html)
+
+---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
