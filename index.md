@@ -4,15 +4,21 @@
 
 ### Data Science Projects 
 
-## [K-Nearest Neighbors and Wine Quality Prediction](/projects_html/K-nearest neighbors and wine quality prediction.html)
-##### Prediction of wine quality using KNN based on physicochemical characteristics
-[<img src="images/wine.jpg?raw=true"/>](/projects_html/K-nearest neighbors and wine quality prediction.html)
+## [Neural Netowrks and Multivariate Linear Regression for Beer Sales Prediction](/projects_html/NN and MLR for Beer Sales Prediction.html)
+##### Prediction of beer sales using neural networks (NN) and Multivariate Linear Regression (MLR)
+[<img src="images/beer.jpg?raw=true"/>](/projects_html/NN and MLR for Beer Sales Prediction.html)
 
 ---
 
 ## [Naïve Bayes Spam Filter](/projects_html/Naive Bayes Spam Filter.html)
 ##### Prediction of Spam SMS with two different Naïve Bayes classifiers
 [<img src="images/spam.jpg?raw=true"/>](/projects_html/Naive Bayes Spam Filter.html)
+
+---
+
+## [K-Nearest Neighbors and Wine Quality Prediction](/projects_html/K-nearest neighbors and wine quality prediction.html)
+##### Prediction of wine quality using KNN based on physicochemical characteristics
+[<img src="images/wine.jpg?raw=true"/>](/projects_html/K-nearest neighbors and wine quality prediction.html)
 
 ---
 
@@ -32,15 +38,6 @@
 ##### Trying different visualisations based on a geolocation exercise   
 [<img src="images/geolocation.jpg?raw=true"/>](/projects_html/Exercise Visualisation Geolocation.html)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 
 ---
 
@@ -57,6 +54,4 @@
 
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
