@@ -27,6 +27,12 @@
 [<img src="images/football.jpg?raw=true"/>](/projects_html/Clustering Football Players.html)
 
 ---
+
+## [Visualisation Geolocation Exercise](/projects_html/Exercise Visualisation Geolocation.html)
+##### Trying different visualisations based on a geolocation exercise   
+[<img src="images/geolocation.jpg?raw=true"/>](/projects_html/Exercise Visualisation Geolocation.html)
+
+---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
