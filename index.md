@@ -21,6 +21,12 @@
 [<img src="images/heart.jpg?raw=true"/>](/projects_html/Decision Trees and Heart Disease.html)
 
 ---
+
+## [Clustering and Football Players Classification (+ Web Scraping)](/projects_html/Clustering Football Players.html)
+##### Web scraping to get football players data and clustering with three unsupervised methods   
+[<img src="images/football.jpg?raw=true"/>](/projects_html/Clustering Football Players.html)
+
+---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
