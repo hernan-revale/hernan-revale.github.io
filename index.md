@@ -4,7 +4,7 @@
 
 ### Data Science Projects 
 
-## [Neural Netowrks and Multivariate Linear Regression for Beer Sales Prediction](/projects_html/NN and MLR for Beer Sales Prediction.html)
+## [Neural Networks and Multivariate Linear Regression for Beer Sales Prediction](/projects_html/NN and MLR for Beer Sales Prediction.html)
 ##### Prediction of beer sales using neural networks (NN) and Multivariate Linear Regression (MLR)
 [<img src="images/beer.jpg?raw=true"/>](/projects_html/NN and MLR for Beer Sales Prediction.html)
 
