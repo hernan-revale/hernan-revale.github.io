@@ -2,7 +2,7 @@
 
 ---
 
-### Data Science Projects 
+# Data Science Projects 
 
 ## [Neural Networks and Multivariate Linear Regression for Beer Sales Prediction](/projects_html/NN and MLR for Beer Sales Prediction.html)
 ##### Prediction of beer sales using neural networks (NN) and Multivariate Linear Regression (MLR)
@@ -59,7 +59,7 @@
 
 ---
 
-### Research work
+# Research work
 
 ## Books
 * Hernan Revale (Compiler), Facundo Curbelo and Bruno Ferrero (Contributions) (2022). **Five years of the Observatory of the Argentine Video Game Industry. Characterization of the industry towards a strategic projection**. Rafaela: UNRaf Editions. Digital book. ISBN 978-987-4920-32-4.
@@ -80,9 +80,7 @@
 
 ## Indexed Journals
 * Hernan Revale and Valentina Fernandez (2021). **Network analysis of the Rafaelian Innovation System**. SMEs, Innovation and Development Journal (Revista PID). Volume: 9. Num.: 3. ISSN: 2344-9195
-
 * Hernan Revale and Rubén Ascúa (2020). **Familiarity with and Use of Support Measures for SMEs in Argentina**. Economic Sciences Journal (Revista Ciencias Económicas). Volume: 16. Num.: 02. doi: https://doi.org/10.14409/rce.v2i0
-
 * Hernan Revale, Facundo Curbelo, Rubén Ascúa (2018). **Characteristics of exporting SMEs: case Province of Santa Fe, Argentina**. SMEs, Innovation and Development Journal (Revista PID). Volume: 6. Num.: 1. ISSN: 2344-9195
 
 ## Presentations in Academic Conferences
