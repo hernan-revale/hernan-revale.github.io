@@ -46,6 +46,12 @@
 
 ---
 
+## [Bandits Algorithms Exercise)](/projects_html/Bandits Algorithms Exercise.html)
+##### Trying three different bandits algorithms (Epsilon-greedy, Upper Confidence Bound and EXP3)    
+[<img src="images/bandits.jpg?raw=true"/>](/projects_html/Bandits Algorithms Exercise.html)
+
+---
+
 ## [Visualisation Geolocation Exercise](/projects_html/Exercise Visualisation Geolocation.html)
 ##### Trying different visualisations based on a geolocation exercise   
 [<img src="images/geolocation.jpg?raw=true"/>](/projects_html/Exercise Visualisation Geolocation.html)
