@@ -10,6 +10,12 @@
 
 ---
 
+## [Holt Winters and ARIMA Models for Fast-Food Demand Forecasting (time series data)](/projects_html/Holt Winters and ARIMA models for fast food demand forecasting.html)
+##### Forecasting of fast-food demand using Holt-Winters seasonal method and Autoregressive Integrated Moving Average (ARIMA) model for time series data
+[<img src="images/forecast.jpg?raw=true"/>](/projects_html/Holt Winters and ARIMA models for fast food demand forecasting.html)
+
+---
+
 ## [Naïve Bayes Spam Filter](/projects_html/Naive Bayes Spam Filter.html)
 ##### Prediction of Spam SMS with two different Naïve Bayes classifiers
 [<img src="images/spam.jpg?raw=true"/>](/projects_html/Naive Bayes Spam Filter.html)
