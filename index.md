@@ -85,7 +85,7 @@
 
 * Hernan Revale, Facundo Curbelo, Rubén Ascúa (2018). **Characteristics of exporting SMEs: case Province of Santa Fe, Argentina**. SMEs, Innovation and Development Journal (Revista PID). Volume: 6. Num.: 1. ISSN: 2344-9195
 
-## Publications in Academic Conferences
+## Presentations in Academic Conferences
 * Hernan Revale and Valentina Fernández (2021): **Network analysis of the Rafaeline innovation system**. Presented at the XXVI Annual Meeting of the Mercosur Pymes Network. Villa de Merlo, Argentina. October 13, 14 and 15, 2021. ISBN: 978-987-3608-57-5
 * Hernan Revale (2020): **Observatory of the Argentine video game industry: creation, development and future perspectives**. Experience presented at the 25th Annual Meeting of the Mercosur SMEs Network. Rafaela, Argentina. November 19 and 20, 2020. ISBN: 978-987-3608-54-4
 * Hernan Revale, Facundo Curbelo, Rubén Ascúa (2020): **Exports from the province of Santa Fe: inter-institutional articulation and modes of entry**. Presented at the XXV Annual Meeting of the Mercosur SMEs Network. Rafaela, Argentina. November 19 and 20, 2020. ISBN: 978-987-3608-54-4
