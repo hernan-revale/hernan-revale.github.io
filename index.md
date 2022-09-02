@@ -16,6 +16,12 @@
 
 ---
 
+## [Logistic Regression, Kernelised SVM and Random Forest for Classification of Patients Readmissions](/projects_html/Classification of Patients Readmissions.html)
+##### Classification of patients readmissions with different classification algorithms
+[<img src="images/diagnosis.jpg?raw=true"/>](/projects_html/Classification of Patients Readmissions.html)
+
+---
+
 ## [Naïve Bayes Spam Filter](/projects_html/Naive Bayes Spam Filter.html)
 ##### Prediction of Spam SMS with two different Naïve Bayes classifiers
 [<img src="images/spam.jpg?raw=true"/>](/projects_html/Naive Bayes Spam Filter.html)
