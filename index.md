@@ -65,6 +65,8 @@
 * Hernan Revale (Compiler), Facundo Curbelo and Bruno Ferrero (Contributions) (2022). **Five years of the Observatory of the Argentine Video Game Industry. Characterization of the industry towards a strategic projection**. Rafaela: UNRaf Editions. Digital book. ISBN 978-987-4920-32-4.
 * Hernan Revale, Rubén Ascúa (2018). **Survey SMEs of Rafaela: Executive Report. Descriptive analysis of the SMEs of Rafaela. Characterization, financing decisions, use of public programs, and preparation of accounting and management reports**. Rafaela: UNRaf Editions. Digital book. ISBN 978-987-4920-02-7.
 
+---
+
 ## Book Chapters
 * Rubén Ascúa, Hernan Revale and Andrea Minetti (2020). **Evolution of Argentine industry, macroeconomic context and particularities of the city of Rafaela and its institutions**. In Rubén Ascúa and Andrea Minetti (comp.), Great stories of industrial SMEs: case study of Rafaela companies (pp. 27-60). 1st Ed. Rafaela: UNRaf Editions. ISBN 978-987-4920-20-1.
 * Hernan Revale and Rubén Ascúa (2019). **Exports and territorial planning of the province of Santa Fe, Argentina**. In Juan Antonio Márquez Domínguez (dir.), Jorge Llamas Chávez (dir.), Helix and anchors for local development (pp. 167-175). Huelva: Provincial Delegation of Huelva. ISBN 978-84-8163-602-4.
@@ -105,18 +107,4 @@
 * Lucas Ariel Martín, Cecilia Popovich, Cecilia Damiani, Hernan Revale, Patricia Leonardi (2016): **Algal biorefinery: cultivation of oleaginous microalgae of the Bahia Blanca estuary (Province of Buenos Aires) for the production of biodiesel and valuable co-products aggregate**. Presented at the 2nd Congress of Sustainable Energies in Bahía Blanca. October 26, 27 and 28, 2016.
 * Guadalupe Oliveras, Hernan Revale, Hernán Vigier, Anahí Briozzo, Andrea Savoretti (2015): **The Institutionalization of Entrepreneurial Education in the Public Universities of the Province of Buenos Aires: Case Analysis**. Presented at the XX Annual Mercosur SME Network Meeting "The challenge of SMEs: innovate and undertake within the framework of a sustainable regional development". Universidad Nacional del Sur, Bahia Blanca, Argentina. 7, 8 and 9 October, 2015. ISBN: 978-987-3608-15-5.
 
-
-
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
 ---
-
-
-
-
-
