@@ -69,6 +69,11 @@
 * Rubén Ascúa, Hernan Revale and Andrea Minetti (2020). **Evolution of Argentine industry, macroeconomic context and particularities of the city of Rafaela and its institutions**. In Rubén Ascúa and Andrea Minetti (comp.), Great stories of industrial SMEs: case study of Rafaela companies (pp. 27-60). 1st Ed. Rafaela: UNRaf Editions. ISBN 978-987-4920-20-1.
 * Hernan Revale and Rubén Ascúa (2019). **Exports and territorial planning of the province of Santa Fe, Argentina**. In Juan Antonio Márquez Domínguez (dir.), Jorge Llamas Chávez (dir.), Helix and anchors for local development (pp. 167-175). Huelva: Provincial Delegation of Huelva. ISBN 978-84-8163-602-4.
 
+## Indexed Journals
+* Hernan Revale and Valentina Fernandez (2021). **Network analysis of the Rafaelian Innovation System**. SMEs, Innovation and Development Journal (Revista PID). Volume: 9. Num.: 3. ISSN: 2344-9195
+* Hernan Revale and Rubén Ascúa (2020). **Familiarity with and Use of Support Measures for SMEs in Argentina**. Economic Sciences Journal (Revista Ciencias Económicas). Volume: 16. Num.: 02. doi: https://doi.org/10.14409/rce.v2i0
+* Hernan Revale, Facundo Curbelo, Rubén Ascúa (2018). **Characteristics of exporting SMEs: case Province of Santa Fe, Argentina**. SMEs, Innovation and Development Journal (Revista PID). Volume: 6. Num.: 1. ISSN: 2344-9195
+
 ## Other Bibliographic Material
 * Rojas-Berrio, S.; Rincón-Novoa, J. S.; Ascúa, R.; Revale, H. (2020). **Emergent Digital Technologies in Sme’s and Start-ups (Colombia)**. Documents FCE-CID School of Administration and Public Accounting Vol. 39. SRRN: http://ssrn.com/abstract=3712627
 * Rodríguez, J.D.; Revale, H.; Garnero, M.G.; Marchisone, C. (2020). **The initial, primary and secondary level educational institutions of the city of Rafaela and the pedagogical continuity, during the stage of social, preventive and compulsory isolation due to COVID-19: survey**. In: https://www.unraf.edu.ar/index.php/repositorio-biblioteca/1652-biblioteca-relevamiento-escuelas
@@ -77,11 +82,6 @@
 * Facundo Curbelo and Hernan Revale. **Rafaela exports survey. 2019 report**. In: https://unraf.edu.ar/index.php/repositorio-biblioteca/611-biblioteca-relevamiento-exportaciones-rafaela-2019
 * Methodological coordination and drafting of the Observatory **Report on the Argentine Video Game Industry**. Edition 2018, 2019, 2020, 2021 and 2022.
 * Co-Author of the Booklet of the **Statistical and Mathematics** subject for the specific work in the Introduction to University Studies Workshop (TIEU). National University of Rafaela. April 2018.
-
-## Indexed Journals
-* Hernan Revale and Valentina Fernandez (2021). **Network analysis of the Rafaelian Innovation System**. SMEs, Innovation and Development Journal (Revista PID). Volume: 9. Num.: 3. ISSN: 2344-9195
-* Hernan Revale and Rubén Ascúa (2020). **Familiarity with and Use of Support Measures for SMEs in Argentina**. Economic Sciences Journal (Revista Ciencias Económicas). Volume: 16. Num.: 02. doi: https://doi.org/10.14409/rce.v2i0
-* Hernan Revale, Facundo Curbelo, Rubén Ascúa (2018). **Characteristics of exporting SMEs: case Province of Santa Fe, Argentina**. SMEs, Innovation and Development Journal (Revista PID). Volume: 6. Num.: 1. ISSN: 2344-9195
 
 ## Presentations in Academic Conferences
 * Hernan Revale and Valentina Fernández (2021): **Network analysis of the Rafaeline innovation system**. Presented at the XXVI Annual Meeting of the Mercosur Pymes Network. Villa de Merlo, Argentina. October 13, 14 and 15, 2021. ISBN: 978-987-3608-57-5
