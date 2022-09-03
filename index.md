@@ -65,8 +65,6 @@
 * Hernan Revale (Compiler), Facundo Curbelo and Bruno Ferrero (Contributions) (2022). **Five years of the Observatory of the Argentine Video Game Industry. Characterization of the industry towards a strategic projection**. Rafaela: UNRaf Editions. Digital book. ISBN 978-987-4920-32-4.
 * Hernan Revale, Rubén Ascúa (2018). **Survey SMEs of Rafaela: Executive Report. Descriptive analysis of the SMEs of Rafaela. Characterization, financing decisions, use of public programs, and preparation of accounting and management reports**. Rafaela: UNRaf Editions. Digital book. ISBN 978-987-4920-02-7.
 
----
-
 ## Book Chapters
 * Rubén Ascúa, Hernan Revale and Andrea Minetti (2020). **Evolution of Argentine industry, macroeconomic context and particularities of the city of Rafaela and its institutions**. In Rubén Ascúa and Andrea Minetti (comp.), Great stories of industrial SMEs: case study of Rafaela companies (pp. 27-60). 1st Ed. Rafaela: UNRaf Editions. ISBN 978-987-4920-20-1.
 * Hernan Revale and Rubén Ascúa (2019). **Exports and territorial planning of the province of Santa Fe, Argentina**. In Juan Antonio Márquez Domínguez (dir.), Jorge Llamas Chávez (dir.), Helix and anchors for local development (pp. 167-175). Huelva: Provincial Delegation of Huelva. ISBN 978-84-8163-602-4.
