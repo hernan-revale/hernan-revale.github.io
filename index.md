@@ -4,6 +4,12 @@
 
 # Data Science Projects 
 
+## [Natural Language Processing (NLP) and Development of a Content-Based Recommendation System](/projects_html/NLP and recommendation system portfolio.html)
+##### Development of a content-based recommender system of resumes using Natural Language Processing (NLP)
+[<img src="images/resume.jpg?raw=true"/>](/projects_html/NLP and recommendation system portfolio.html)
+
+---
+
 ## [Neural Networks and Multivariate Linear Regression for Beer Sales Prediction](/projects_html/NN and MLR for Beer Sales Prediction.html)
 ##### Prediction of beer sales using neural networks (NN) and Multivariate Linear Regression (MLR)
 [<img src="images/beer.jpg?raw=true"/>](/projects_html/NN and MLR for Beer Sales Prediction.html)
