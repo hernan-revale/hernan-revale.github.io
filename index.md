@@ -76,6 +76,7 @@
 * Hernan Revale and Rubén Ascúa (2019). **Exports and territorial planning of the province of Santa Fe, Argentina**. In Juan Antonio Márquez Domínguez (dir.), Jorge Llamas Chávez (dir.), Helix and anchors for local development (pp. 167-175). Huelva: Provincial Delegation of Huelva. ISBN 978-84-8163-602-4.
 
 ## Indexed Journals
+* Hernan Revale and Ruben Ascua (2022). **Design and development of a technology transfer center. The case of the National University of Rafaela, Argentina**. Journal of International Scientific Publications: Educational Alternatives. Volume: 20. ISSN: 1314-7277
 * Hernan Revale and Valentina Fernandez (2021). **Network analysis of the Rafaelian Innovation System**. SMEs, Innovation and Development Journal (Revista PID). Volume: 9. Num.: 3. ISSN: 2344-9195
 * Hernan Revale and Rubén Ascúa (2020). **Familiarity with and Use of Support Measures for SMEs in Argentina**. Economic Sciences Journal (Revista Ciencias Económicas). Volume: 16. Num.: 02. doi: https://doi.org/10.14409/rce.v2i0
 * Hernan Revale, Facundo Curbelo, Rubén Ascúa (2018). **Characteristics of exporting SMEs: case Province of Santa Fe, Argentina**. SMEs, Innovation and Development Journal (Revista PID). Volume: 6. Num.: 1. ISSN: 2344-9195
